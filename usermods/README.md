@@ -13,3 +13,4 @@ This section houses creations from users that have either made assembly easier, 
 | Author | Mod Name | V2 AWD | V2 2WD | VT AWD | VT 2WD |
 |---|---|---|---|---|---|
 | Mastur_Mynd | [Y Endstop Mount](./Mastur_Mynd/Y_Endstop_Mount) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Kyle_GB| [Accent Sleeves](./Kyle_GB/Accent_Sleeves) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
