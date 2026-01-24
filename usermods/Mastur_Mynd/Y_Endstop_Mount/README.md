@@ -2,6 +2,7 @@
 A simple, sturdy Y endstop mount for those that prefer a nice click when homing.
 
 ![render](IMG/y_endstop_assembly_render.png)
+![installed](IMG/y_endstop_installed_render.png)
 
 ## BOM
 | Part | Quantity | Kit Included |
