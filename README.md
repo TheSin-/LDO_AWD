@@ -24,8 +24,16 @@ CNC drive frames for the [Voron Trident](https://github.com/VoronDesign/Voron-Tr
 
 This kit was designed and tested in collaboration with LDO Motors. Kits produced by other manufacturers have not been vetted and may not have the same standard of quality.
 
+## Motor Layout
+```
+ A-----B
+ |     |
+ |     |
+B1-----A1
+```
+
 ## Belt Tensioning
-While not required, ensuring your A and B belts are the same length will make tensioning easier.
+While not required, ensuring your A and B belts are the same length will make tensioning easier. With this AWD kit roughly 10lbs of tension is recommended, which can require a decent bit of pre-tension. A couple of useful tools are the [GT2 Belt Tension Meter](https://github.com/Diyshift/3D-Printer/tree/main/GT2%20Belt%20Tension%20Meter) (10lbs is just past the 3 mark) and the [StealthChanger Belt Helper](https://github.com/DraftShift/StealthChanger/tree/main/STLs/Extras/BeltHelper).
 
 1. Home your printer. `G28`
 	* For the Voron V2 you will also need to perform a quad gantry level. `QUAD_GANTRY_LEVEL`
