@@ -24,12 +24,13 @@ CNC drive frames for the [Voron Trident](https://github.com/VoronDesign/Voron-Tr
 
 This kit was designed and tested in collaboration with LDO Motors. Kits produced by other manufacturers have not been vetted and may not have the same standard of quality.
 
-## Motor Layout
+## Motor Layout (as seen from above)
 ```
- A-----B
- |     |
- |     |
-B1-----A1
+   rear
+ A------B
+ |      |
+ |      |
+B1------A1
 ```
 
 ## Belt Tensioning
